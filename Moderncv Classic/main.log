@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.15)  19 APR 2018 09:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.15)  19 APR 2018 15:42
 entering extended mode
 **./main.tex
 (main.tex
@@ -1094,7 +1094,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvheadpicturebox=\box58
-<harsh_jaipur.jpg, id=54, 2055.68pt x 1541.76pt>
+<harsh_jaipur.jpg, id=62, 2055.68pt x 1541.76pt>
 File: harsh_jaipur.jpg Graphic file (type jpg)
 <use harsh_jaipur.jpg>
 Package pdftex.def Info: harsh_jaipur.jpg  used on input line 54.
@@ -1121,61 +1121,40 @@ Overfull \hbox (61.15675pt too wide) in paragraph at lines 61--74
 [1
 
 {C:/Users/HP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./harsh_jaipur
-.jpg>]
-
-LaTeX Warning: Citation `book1' on page 2 undefined on input line 122.
-
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 130.
-(main.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) [2] [3
-
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
+.jpg>] [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 171.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 171.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BF79A0BBCFEC773B97BC717D6A1A0791;1136.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: BAC3E0519F856213DAA67330F9644580;1555.
  ) 
 Here is how much of TeX's memory you used:
- 29602 strings out of 492976
- 558014 string characters out of 3128080
- 632553 words of memory out of 3000000
- 33029 multiletter control sequences out of 15000+200000
- 599054 words of font info for 83 fonts, out of 3000000 for 9000
+ 29569 strings out of 492976
+ 557502 string characters out of 3128080
+ 630554 words of memory out of 3000000
+ 33013 multiletter control sequences out of 15000+200000
+ 587134 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,20n,58p,10358b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.e
-nc}{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.
-enc}{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc
-}{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.en
-c}{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<
-C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmex10.pfb>
-<C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb
-><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb
-><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb
-><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb>
-<C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb
-><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pf
-b><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss17.p
-fb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx1
+ 69i,12n,58p,10358b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.e
+nc}{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}
+{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:
+/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C
+:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C
+:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C
+:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><
+C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb>
+<C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb
+><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.
+pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso1
 0.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss
-o10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lm
-sso17.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/
-lmsy8.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/mar
-vosym/marvosym.pfb>
-Output written on main.pdf (3 pages, 600739 bytes).
+o17.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/marvo
+sym/marvosym.pfb>
+Output written on main.pdf (2 pages, 559727 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 22634 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 126 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 19066 words of extra memory for PDF output out of 20736 (max. 10000000)
 
