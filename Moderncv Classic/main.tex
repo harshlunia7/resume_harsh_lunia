@@ -17,7 +17,7 @@
 % character encoding
 \usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
 %\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
-
+\usepackage{booktabs}
 % adjust the page margins
 \usepackage[scale=0.75]{geometry}
 %\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
@@ -58,10 +58,18 @@ A budding Computer Science second-year undergraduate student looking for interns
 robotics and related disciplines.  
 
 \section{Education}
-\begin{tabular}{| l l l l l |}                     % 
-	\hline
-	\hline
-	
+\begin{tabular}{@{\extracolsep{4pt}}llccc}
+	\toprule 
+	{Degree} & {Institution Name} & {Board / University} & {CGPA /} & {Year of}  \\
+	{} & {} & {} & {Aggregate} & {Completion} \\
+	\midrule
+		Secondary School(class 10) &  Apeejay School, & CBSE & 9.2 & 2013 \\
+	    & Kolkata - India & & & \\
+		Higher Secondary School(class 12) & Birla High School, & CBSE & 91\% & 2015 \\
+		& Kolkata - India & & & \\
+		B.E(Computer Science Engineering) & BMS College of Engineering, & VTU & 8.73 & 2020 \\
+	    & Bangalore - India & & (till $3^{rd}$ sem) &  (expected)\\
+	\bottomrule    
 \end{tabular}
 
 
