@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.15)  19 APR 2018 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.15)  19 APR 2018 16:14
 entering extended mode
 **./main.tex
 (main.tex
@@ -1122,20 +1122,20 @@ Overfull \hbox (61.15675pt too wide) in paragraph at lines 61--74
 
 {C:/Users/HP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./harsh_jaipur
 .jpg>] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: BAC3E0519F856213DAA67330F9644580;1555.
  ) 
 Here is how much of TeX's memory you used:
- 29569 strings out of 492976
- 557502 string characters out of 3128080
+ 29576 strings out of 492976
+ 557564 string characters out of 3128080
  630554 words of memory out of 3000000
  33013 multiletter control sequences out of 15000+200000
- 587134 words of font info for 72 fonts, out of 3000000 for 9000
+ 587336 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10358b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.e
@@ -1152,9 +1152,9 @@ pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso1
 0.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss
 o17.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/marvo
 sym/marvosym.pfb>
-Output written on main.pdf (2 pages, 559727 bytes).
+Output written on main.pdf (2 pages, 560755 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
+ 130 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
  19066 words of extra memory for PDF output out of 20736 (max. 10000000)
 
