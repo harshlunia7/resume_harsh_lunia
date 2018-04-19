@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.15)  19 APR 2018 17:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.15)  19 APR 2018 22:19
 entering extended mode
 **./main.tex
 (main.tex
@@ -1167,11 +1167,11 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 \makecvheadpicturebox=\box58
-<profile_pic.jpeg, id=62, 1284.8pt x 962.59625pt>
-File: profile_pic.jpeg Graphic file (type jpg)
-<use profile_pic.jpeg>
-Package pdftex.def Info: profile_pic.jpeg  used on input line 55.
-(pdftex.def)             Requested size: 94.0pt x 70.41435pt.
+<pro_pic.jpeg, id=62, 229.60782pt x 408.02437pt>
+File: pro_pic.jpeg Graphic file (type jpg)
+<use pro_pic.jpeg>
+Package pdftex.def Info: pro_pic.jpeg  used on input line 55.
+(pdftex.def)             Requested size: 94.0pt x 167.04204pt.
 \makecvheaddetailswidth=\skip82
 \makecvheadpicturewidth=\skip83
 \makecvheadnamebox=\box59
@@ -1193,8 +1193,8 @@ Overfull \hbox (61.15675pt too wide) in paragraph at lines 62--75
 
 [1
 
-{C:/Users/HP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./profile_pic.
-jpeg>] [2] [3]
+{C:/Users/HP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./pro_pic.jpeg
+>] [2] [3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 170.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 170.
  (main.aux)
@@ -1204,13 +1204,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 5702F7F134F565957986EA2D3A5FB369;1555.
  ) 
 Here is how much of TeX's memory you used:
- 30454 strings out of 492976
- 571090 string characters out of 3128080
- 658927 words of memory out of 3000000
- 33845 multiletter control sequences out of 15000+200000
- 590410 words of font info for 78 fonts, out of 3000000 for 9000
+ 30457 strings out of 492976
+ 571123 string characters out of 3128080
+ 658915 words of memory out of 3000000
+ 33847 multiletter control sequences out of 15000+200000
+ 593178 words of font info for 79 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,67p,10358b,447s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 69i,12n,67p,10358b,444s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{
 C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}
 {C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:
@@ -1226,9 +1226,9 @@ pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso1
 0.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss
 o17.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/marvo
 sym/marvosym.pfb>
-Output written on main.pdf (3 pages, 322129 bytes).
+Output written on main.pdf (3 pages, 263911 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 19578 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 143 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
+ 20090 words of extra memory for PDF output out of 20736 (max. 10000000)
 
