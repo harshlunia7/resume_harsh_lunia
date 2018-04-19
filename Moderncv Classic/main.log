@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.15)  19 APR 2018 16:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6650 64-bit) (preloaded format=pdflatex 2018.4.15)  19 APR 2018 16:56
 entering extended mode
 **./main.tex
 (main.tex
@@ -763,26 +763,95 @@ Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks30
 \inpenc@posthook=\toks31
 )
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime\datetime.sty
+"
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fmtcount.sty
+"
+Package: fmtcount 2017/12/24 v3.05
+ ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+"
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.te
+x"
+\XKV@toks=\toks32
+\XKV@tempa@toks=\toks33
+)
+\XKV@depth=\count267
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fcprefix.sty
+"
+Package: fcprefix 2012/09/28
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fcnumparser.
+sty"
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count268
+))
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen186
+)
+\c@padzeroesN=\count269
+\fc@tmpcatcode=\count270
+\@DT@modctr=\count271
+\@ordinalctr=\count272
+\@orgargctr=\count273
+\@strctr=\count274
+\@tmpstrctr=\count275
+\@DT@loopN=\count276
+\@DT@X=\count277
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime\datetime-def
+aults.sty"
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count278
+\@month=\count279
+\@year=\count280
+\c@HOUR=\count281
+\c@HOURXII=\count282
+\c@MINUTE=\count283
+\c@TOHOUR=\count284
+\c@TOMINUTE=\count285
+\c@SECOND=\count286
+\currenthour=\count287
+\currentminute=\count288
+\currentsecond=\count289
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count290
+\dayofyear=\count291
+\dayofweek=\count292
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks35
+\dt@b=\toks36
+)
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty
 "
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen186
-\lightrulewidth=\dimen187
-\cmidrulewidth=\dimen188
-\belowrulesep=\dimen189
-\belowbottomsep=\dimen190
-\aboverulesep=\dimen191
-\abovetopsep=\dimen192
-\cmidrulesep=\dimen193
-\cmidrulekern=\dimen194
-\defaultaddspace=\dimen195
-\@cmidla=\count267
-\@cmidlb=\count268
-\@aboverulesep=\dimen196
-\@belowrulesep=\dimen197
-\@thisruleclass=\count269
-\@lastruleclass=\count270
-\@thisrulewidth=\dimen198
+\heavyrulewidth=\dimen187
+\lightrulewidth=\dimen188
+\cmidrulewidth=\dimen189
+\belowrulesep=\dimen190
+\belowbottomsep=\dimen191
+\aboverulesep=\dimen192
+\abovetopsep=\dimen193
+\cmidrulesep=\dimen194
+\cmidrulekern=\dimen195
+\defaultaddspace=\dimen196
+\@cmidla=\count293
+\@cmidlb=\count294
+\@aboverulesep=\dimen197
+\@belowrulesep=\dimen198
+\@thisruleclass=\count295
+\@lastruleclass=\count296
+\@thisrulewidth=\dimen199
 )
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
 "
@@ -796,18 +865,18 @@ Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count271
-\Gm@cntv=\count272
-\c@Gm@tempcnt=\count273
-\Gm@bindingoffset=\dimen199
-\Gm@wd@mp=\dimen256
-\Gm@odd@mp=\dimen257
-\Gm@even@mp=\dimen258
-\Gm@layoutwidth=\dimen259
-\Gm@layoutheight=\dimen260
-\Gm@layouthoffset=\dimen261
-\Gm@layoutvoffset=\dimen262
-\Gm@dimlist=\toks32
+\Gm@cnth=\count297
+\Gm@cntv=\count298
+\c@Gm@tempcnt=\count299
+\Gm@bindingoffset=\dimen256
+\Gm@wd@mp=\dimen257
+\Gm@odd@mp=\dimen258
+\Gm@even@mp=\dimen259
+\Gm@layoutwidth=\dimen260
+\Gm@layoutheight=\dimen261
+\Gm@layouthoffset=\dimen262
+\Gm@layoutvoffset=\dimen263
+\Gm@dimlist=\toks37
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
 "))
@@ -865,16 +934,16 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 y"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen263
-\Hy@linkcounter=\count274
-\Hy@pagecounter=\count275
+\@linkdim=\dimen264
+\Hy@linkcounter=\count300
+\Hy@pagecounter=\count301
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count276
+\Hy@SavedSpaceFactor=\count302
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
 "
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -892,12 +961,12 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count277
+\c@Hy@tempcnt=\count303
 LaTeX Info: Redefining \url on input line 5115.
-\XeTeXLinkMargin=\dimen264
-\Fld@menulength=\count278
-\Field@Width=\dimen265
-\Fld@charsize=\dimen266
+\XeTeXLinkMargin=\dimen265
+\Fld@menulength=\count304
+\Field@Width=\dimen266
+\Fld@charsize=\dimen267
 Package hyperref Info: Hyper figures OFF on input line 6369.
 Package hyperref Info: Link nesting OFF on input line 6374.
 Package hyperref Info: Hyper index ON on input line 6377.
@@ -907,16 +976,16 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count279
-\c@Item=\count280
-\c@Hfootnote=\count281
+\Hy@abspage=\count305
+\c@Item=\count306
+\c@Hfootnote=\count307
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count282
-\c@bookmark@seq@number=\count283
+\Fld@listcount=\count308
+\c@bookmark@seq@number=\count309
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfileche
 ck.sty"
@@ -926,45 +995,45 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip80
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 51.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 51.
+Package hyperref Info: Option `breaklinks' set `true' on input line 52.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 52.
  (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 52.
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count284
-\scratchdimen=\dimen267
+\scratchcounter=\count310
+\scratchdimen=\dimen268
 \scratchbox=\box55
-\nofMPsegments=\count285
-\nofMParguments=\count286
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count287
-\MPscratchDim=\dimen268
-\MPnumerator=\count288
-\makeMPintoPDFobject=\count289
-\everyMPtoPDFconversion=\toks34
+\nofMPsegments=\count311
+\nofMParguments=\count312
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen269
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
+\everyMPtoPDFconversion=\toks39
 )
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-bas
 e.sty"
@@ -980,7 +1049,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \microtypecontext on input line 51.
+LaTeX Info: Redefining \microtypecontext on input line 52.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -995,7 +1064,7 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 51.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 52.
  ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -1005,6 +1074,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 ABD: EveryShipout initializing macros
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fmtcount\fc-english.d
+ef"
+File: fc-english.def 2016/01/12
+)
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1040,7 +1113,7 @@ ABD: EveryShipout initializing macros
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring OFF on input line 51.
+Package hyperref Info: Link coloring OFF on input line 52.
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1048,47 +1121,47 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count290
+\c@section@level=\count316
 )
-LaTeX Info: Redefining \ref on input line 51.
-LaTeX Info: Redefining \pageref on input line 51.
-LaTeX Info: Redefining \nameref on input line 51.
+LaTeX Info: Redefining \ref on input line 52.
+LaTeX Info: Redefining \pageref on input line 52.
+LaTeX Info: Redefining \nameref on input line 52.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
 \pagenumberwidth=\skip81
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 51.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 52.
 \makecvheaddetailsbox=\box57
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 54.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 55.
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 54.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 55.
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 54.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 55.
 
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 54.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 55.
 
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 54.
+(Font)              <10> on input line 55.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 54.
+(Font)              <7> on input line 55.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 54.
+(Font)              <5> on input line 55.
 
 ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex\latex\microtype\mt-mvs.cfg"
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
@@ -1097,49 +1170,49 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 <harsh_jaipur.jpg, id=62, 2055.68pt x 1541.76pt>
 File: harsh_jaipur.jpg Graphic file (type jpg)
 <use harsh_jaipur.jpg>
-Package pdftex.def Info: harsh_jaipur.jpg  used on input line 54.
+Package pdftex.def Info: harsh_jaipur.jpg  used on input line 55.
 (pdftex.def)             Requested size: 124.0pt x 92.99564pt.
 \makecvheaddetailswidth=\skip82
 \makecvheadpicturewidth=\skip83
 \makecvheadnamebox=\box59
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 56.
+(Font)              <10.95> on input line 57.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 56.
+(Font)              <8> on input line 57.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 56.
+(Font)              <6> on input line 57.
 
-Overfull \hbox (61.15675pt too wide) in paragraph at lines 61--74
+Overfull \hbox (61.15675pt too wide) in paragraph at lines 62--75
 [][] 
  []
 
 [1
 
 {C:/Users/HP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./harsh_jaipur
-.jpg>] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
+.jpg>] [2] [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 170.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 170.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 170.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 170.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BAC3E0519F856213DAA67330F9644580;1555.
+(rerunfilecheck)             Checksum: 5702F7F134F565957986EA2D3A5FB369;1555.
  ) 
 Here is how much of TeX's memory you used:
- 29576 strings out of 492976
- 557564 string characters out of 3128080
- 630554 words of memory out of 3000000
- 33013 multiletter control sequences out of 15000+200000
- 587336 words of font info for 74 fonts, out of 3000000 for 9000
+ 30452 strings out of 492976
+ 571082 string characters out of 3128080
+ 658933 words of memory out of 3000000
+ 33845 multiletter control sequences out of 15000+200000
+ 590410 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,58p,10358b,396s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.e
-nc}{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}
+ 69i,12n,67p,10358b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{
+C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}
 {C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:
 /Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C
 :/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C
@@ -1147,14 +1220,15 @@ nc}{C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}
 :/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><
 C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb>
 <C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb
+><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb
 ><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.
 pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmsso1
 0.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmss
 o17.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/marvo
 sym/marvosym.pfb>
-Output written on main.pdf (2 pages, 560755 bytes).
+Output written on main.pdf (3 pages, 576701 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 19066 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 19578 words of extra memory for PDF output out of 20736 (max. 10000000)
 
